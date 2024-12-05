@@ -21,6 +21,11 @@
 * [Panel Customization](feature/panel-customization.md)
 * [Q\&A and Activity Logs](feature/q-and-a-and-activity-logs.md)
 
+## Legal
+
+* [Privacy Policy](legal/privacy-policy.md)
+* [Terms of Service](legal/terms-of-service.md)
+
 ## Misc
 
 * [Server Status](https://quicksupport.faizo.net/status)
@@ -35,8 +40,3 @@
 * [Interactive blocks](group-1/interactive-blocks.md)
 * [OpenAPI](group-1/openapi.md)
 * [Integrations](group-1/integrations.md)
-
-## Legal
-
-* [Privacy Policy](legal/privacy-policy.md)
-* [Terms of Service](legal/terms-of-service.md)
