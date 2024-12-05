@@ -27,11 +27,6 @@
 * [Panel Template](https://quicksupport.faizo.net/template)
 * [Web Panel Editor](https://quicksupport.faizo.net/editor)
 
-***
-
-* [Privacy Policy](privacy-policy.md)
-* [Terms of Service](terms-of-service.md)
-
 ## Group 1
 
 * [Editor](group-1/editor.md)
@@ -40,3 +35,8 @@
 * [Interactive blocks](group-1/interactive-blocks.md)
 * [OpenAPI](group-1/openapi.md)
 * [Integrations](group-1/integrations.md)
+
+## Legal
+
+* [Privacy Policy](legal/privacy-policy.md)
+* [Terms of Service](legal/terms-of-service.md)
