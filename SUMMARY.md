@@ -21,11 +21,8 @@
 * [Panel Customization](feature/panel-customization.md)
 * [Q\&A and Activity Logs](feature/q-and-a-and-activity-logs.md)
 
-## link
+## Misc
 
-* [Invite Bot](https://discord.com/oauth2/authorize?client_id=1280984633739186318)
-* [Support Server](https://discord.gg/2wB7rHRDg2)
-* [Upgrade Plan](https://quicksupport.faizo.net/upgrade)
 * [Server Status](https://quicksupport.faizo.net/status)
 * [Panel Template](https://quicksupport.faizo.net/template)
 * [Web Panel Editor](https://quicksupport.faizo.net/editor)
