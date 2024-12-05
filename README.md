@@ -15,15 +15,18 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Overview
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Welcome to QuickSupport Documents! Here, you'll find comprehensive guides, feature overviews, and more to help you maximize the benefits of QuickSupport.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+QuickSupport is a powerful mail component designed to empower support teams by streamlining communication and delivering faster assistance. It also helps you organize and manage important messages and documents within your Discord server.
+
+With its intuitive user interface and robust tools, QuickSupport AI ensures your messages and document information are effectively utilized to address questions and provide accurate support. Additionally, it offers analytics to help you optimize document performance and enhance support outcomes.
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="group-1/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="group-1/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first panel to enable all features</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Features</td><td>explore all available Features</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Legal</td><td>Read our Policy and ToS</td><td></td><td></td><td><a href="group-1/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+
