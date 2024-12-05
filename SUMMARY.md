@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Overview](README.md)
+* [Upgrade Plan](upgrade-plan.md)
+* [Updates](updates/README.md)
+  * [Version 1.0](updates/version-1.0.md)
 
 ## Getting Started
 
-* [Quick Setup](getting-started/quickstart/README.md)
-  * [Page 1](getting-started/quickstart/page-1.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-* [Upgrade Plan](getting-started/upgrade-plan.md)
+* [Invite Bot](getting-started/invite-bot.md)
+* [Quick Setup](getting-started/quick-setup.md)
 
 ## Feature
 
@@ -28,6 +29,7 @@
 
 ## Misc
 
+* [Official Website](https://quicksupport.faizo.net)
 * [Server Status](https://quicksupport.faizo.net/status)
 * [Panel Template](https://quicksupport.faizo.net/template)
 * [Web Panel Editor](https://quicksupport.faizo.net/editor)
@@ -40,3 +42,5 @@
 * [Interactive blocks](group-1/interactive-blocks.md)
 * [OpenAPI](group-1/openapi.md)
 * [Integrations](group-1/integrations.md)
+* [Quick Setup](group-1/quickstart.md)
+* [Publish your docs](group-1/publish-your-docs.md)
