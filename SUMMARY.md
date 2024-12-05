@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Upgrade Plan](upgrade-plan.md)
+* [Upgrade](upgrade.md)
 * [Updates](updates/README.md)
   * [Version 1.0](updates/version-1.0.md)
 
