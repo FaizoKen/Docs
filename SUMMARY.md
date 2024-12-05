@@ -10,17 +10,17 @@
 * [Invite Bot](getting-started/invite-bot.md)
 * [Quick Setup](getting-started/quick-setup.md)
 
-## Feature
+## Features
 
-* [Ticket System](feature/ticket-system.md)
-* [Mod Mail](feature/mod-mail.md)
-* [Report User Menu](feature/report-user-menu.md)
-* [Report Message Menu](feature/report-message-menu.md)
-* [Announcement Panel](feature/announcement-panel.md)
-* [RAG Documentation](feature/rag-documentation.md)
-* [AI-ChatBot](feature/ai-chatbot.md)
-* [Panel Customization](feature/panel-customization.md)
-* [Q\&A and Activity Logs](feature/q-and-a-and-activity-logs.md)
+* [Ticket System](features/ticket-system.md)
+* [Mod Mail](features/mod-mail.md)
+* [Report User Menu](features/report-user-menu.md)
+* [Report Message Menu](features/report-message-menu.md)
+* [Announcement Panel](features/announcement-panel.md)
+* [RAG Documentation](features/rag-documentation.md)
+* [AI-ChatBot](features/ai-chatbot.md)
+* [Panel Customization](features/panel-customization.md)
+* [Q\&A and Activity Logs](features/q-and-a-and-activity-logs.md)
 
 ## Legal
 
