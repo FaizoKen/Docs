@@ -47,3 +47,7 @@ Share the gift of membership with your friend for a custom duration.\
 ## Other Benefits
 
 As a member, you'll unlock exclusive benefits across all Faizo's apps and services. For detailed information, visit our [Patreon page](https://www.patreon.com/Faizo).
+
+## Free Upgrade Points
+
+Earn **1 upgrade point per day** by joining our [Support Server](https://discord.gg/2wB7rHRDg2) and voting for the QuickSupport App on [Top.gg](https://top.gg/bot/1280984633739186318).
