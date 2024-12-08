@@ -29,7 +29,9 @@ layout:
 
 ## Upgrade Plan
 
-<table data-full-width="false"><thead><tr><th>Support Tier</th><th>Original Price</th><th>Upgrade Points</th><th>Checkout Link</th></tr></thead><tbody><tr><td>Supporter I</td><td>$2</td><td>2</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=8971834">Checkout</a></td></tr><tr><td>Supporter II</td><td>$5</td><td>10</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=8971826">Checkout</a></td></tr><tr><td>Supporter III</td><td>$7</td><td>15</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=8971839">Checkout</a></td></tr><tr><td>Supporter IV</td><td>$10</td><td>20</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=22108996">Checkout</a></td></tr><tr><td>Supporter V</td><td>$14</td><td>25</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=22109002">Checkout</a></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Support Tier</th><th>Original Price</th><th>Upgrade Points</th><th>Checkout Link</th></tr></thead><tbody><tr><td>Supporter I</td><td>$2</td><td>5</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=8971834">Checkout</a></td></tr><tr><td>Supporter II</td><td>$5</td><td>13</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=8971826">Checkout</a></td></tr><tr><td>Supporter III</td><td>$7</td><td>19</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=8971839">Checkout</a></td></tr><tr><td>Supporter IV</td><td>$10</td><td>28</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=22108996">Checkout</a></td></tr><tr><td>Supporter V</td><td>$14</td><td>39</td><td><a href="https://www.patreon.com/checkout/Faizo?rid=22109002">Checkout</a></td></tr></tbody></table>
+
+
 
 {% hint style="warning" %}
 We recommend using the **web or Android platform** for your payments. This way, you'll avoid the additional taxes of up to **40%** applied to [in-app purchases on iOS](https://support.patreon.com/hc/en-us/articles/27991664769677-How-iOS-in-app-purchases-work-on-Patreon).
