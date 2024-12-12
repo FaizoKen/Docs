@@ -32,7 +32,7 @@
 * [Official Website](https://quicksupport.faizo.net)
 * [Server Status](https://quicksupport.faizo.net/status)
 * [Panel Template](https://quicksupport.faizo.net/template)
-* [Web Panel Editor](https://quicksupport.faizo.net/editor)
+* [Web Panel Builder](https://quicksupport.faizo.net/editor)
 
 ## Group 1
 
